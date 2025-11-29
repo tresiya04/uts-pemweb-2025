@@ -27,12 +27,12 @@ Sistem reservasi restoran nusantara berbasis web mempermudah proses reservasi pe
 ```
 
 ```bash
-terlampir file SLR dengan nama SLR Tre.pdf
+terlampir file SLR dengan nama SLR Tree.pdf
 ```
 
 # BRD
 ```
-terlampir file BRD berdasarkan SLR dengan nama file BRD Tre.pdf
+terlampir file BRD berdasarkan SLR dengan nama file BRD Tree.pdf
 
 ```
 
