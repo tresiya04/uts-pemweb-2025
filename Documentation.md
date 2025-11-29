@@ -6,39 +6,33 @@
 ```bash
 Rumpun Ilmu: Sistem Informasi 
 
-Deskripsi: Pengembangan Web Company Profile untuk UKM
+Deskripsi: Implementasi Sistem Reservasi Restoran Nusantara Berbasis Web
 
-P (Platform): Pengembangan Aplikasi Web Company Profile atau Portal Layanan Digital untuk UKM (Usaha Kecil dan Menengah) menggunakan tema "Flat" sebagai fondasi front-end.
+P (Platform): Web untuk reservasi restoran nusantara
 
-I (Intervention): Implementasi dan kustomisasi komponen-komponen UI spesifik dari tema "Flat"—seperti Hero Header, Layanan (Services), Portfolio/Project Gallery, Testimonial Carousel, Blog/News Section, dan Contact Form—ke dalam aplikasi web dinamis yang dibangun dengan teknologi Laravel Filament untuk admin panel dan manajemen konten.
+I (Intervention): Penerapan sistem reservasi berbasis web 
+C (Comparison): Proses reservasi dengan pencatatan manual
 
-C (Comparison): Membangun aplikasi company profile yang sama dengan:
+O (Outcome): Proses reservasi yang lebih mudah, cepat, dan mengurangi kesalahan
 
-C1: Menggunakan framework CSS biasa (seperti Bootstrap vanilla) tanpa tema yang sudah didesain.
-
-C2: Membangun front-end dari nol (custom design) tanpa menggunakan template pre-built.
-
-O (Outcome): Development Efficiency: Waktu yang dibutuhkan untuk menyelesaikan halaman-halaman utama (Home, About, Services, Portfolio).
-
-S (Suspect): Calon Klien/Pengunjung Website sebagai target audiens yang akan menilai kredibilitas dan tertarik untuk menggunakan jasa.
+S (Study Design): Sistem berbasis web yang mudah digunakan 
 ```
 
 # PROSES RQ
 ```bash
-RQ tentang (Kualitas Produk & Persepsi Pengguna):
-RQ2 : Bagaimana kualitas visual dan profesionalisme aplikasi company profile yang dibangun dengan tema "Flat" dipersepsikan oleh calon klien dalam hal kredibilitas dan minat untuk menggunakan jasa?
+Bagaimana sistem reservasi restoran nusantara berbasis web dapat mempermudah proses reservasi pelanggan dibandingkan metode pencatatan manual ?
 Jawaban
-Berdasarkan hasil penelitian, aplikasi company profile berbasis tema "Flat" dipersepsikan sangat positif oleh calon klien. Sebanyak 85% responden menilai website terlihat profesional dan terpercaya, dengan skor kredibilitas rata-rata 4.2/5.0. Persepsi positif ini secara langsung berdampak pada minat penggunaan jasa, yang terbukti dari conversion rate form kontak sebesar 6.8% dan tingkat rekomendasi 72%. Komponen tema "Flat" seperti hero section yang clean dan portfolio gallery yang terstruktur menjadi faktor utama yang memengaruhi persepsi kredibilitas dan minat bertransaksi calon klien.
+Sistem reservasi restoran nusantara berbasis web mempermudah proses reservasi pelanggan dibandingkan metode pencatatan manual
 
 ```
 
 ```bash
-terlampir file SLR dengan nama SLR.pdf
+terlampir file SLR dengan nama SLR Tre.pdf
 ```
 
 # BRD
 ```
-terlampir file BRD berdasarkan SLR dengan nama file BRD.pdf
+terlampir file BRD berdasarkan SLR dengan nama file BRD Tre.pdf
 
 ```
 
